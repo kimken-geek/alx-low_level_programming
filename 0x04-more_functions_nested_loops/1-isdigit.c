@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #include "main.h"
 
+=======
+Â#include "main.h"
+>>>>>>> 8eebacb9c7671de648661d7655683b4e60d3a484
 /**
 
  *_isupper - checks for uppercase characters
@@ -31,9 +35,13 @@ int _isdigit(int c)
 	else
 
 	{
+<<<<<<< HEAD
 
 		return (0);
 
+=======
+		return(0);
+>>>>>>> 8eebacb9c7671de648661d7655683b4e60d3a484
 	}
 
 }
