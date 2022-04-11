@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code.
+ * main - Entry point, prints file name it was compiled from
  *
- * Return: Always 0.
+ * Return: 0 (Success)
  */
 
 int main(void)
